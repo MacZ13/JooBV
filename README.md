@@ -1,5 +1,5 @@
 ### Hi there ! 👋 <br>I'm **Jordan**.
-<br>A passionate Full-Stack developer from France 🇫🇷.</h3>
+<br>A Full-Stack developer passionate about the web 🇫🇷.</h3>
 
 
 - ⌨️ I’m a **Full-Stack** developer.
