@@ -1,4 +1,4 @@
-### Hi there ! 👋 <br>I'm **Jordan**.
+### Hi there ! 👋 <br>I'm **Jo**.
 <br>A Full-Stack developer passionate about the web 🇫🇷.</h3>
 
 
