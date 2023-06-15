@@ -3,7 +3,6 @@
 
 
 - ⌨️ I’m a **Full-Stack** developer.
-- 🔭 I’m a **School Coding Factory** student @ Paris.
 - 🌱 I’m currently learning Python & Java.
 - 💪 I'll love to work with you.
 
